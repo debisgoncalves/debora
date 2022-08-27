@@ -7,3 +7,4 @@
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deboraa_goncalves)
 
 ### Tecnologias que eu uso no meu dia a dia 
+![Snake animation](https://github.com/dsouloficial/dsouloficial/blob/output/github-contribution-grid-snake.svg)
